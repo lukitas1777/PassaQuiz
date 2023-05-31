@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38774945220",
+    "project_id": "passaquiz-92390",
+    "storage_bucket": "passaquiz-92390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38774945220:android:5087d09f6a7d9733276091",
+        "android_client_info": {
+          "package_name": "com.example.passaquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuEjmOhdcKxTH9cTedmDG_b0Vl7_dfLL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
